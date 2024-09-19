@@ -13,3 +13,6 @@ Desventajas de las redes inalámbricas:
 •	Velocidad: Aunque las velocidades de las redes inalámbricas han aumentado significativamente en los últimos años, generalmente son más lentas que las de las redes cableadas.
 Conclusión
 Las tecnologías inalámbricas han revolucionado la forma en que vivimos y trabajamos. Sin embargo, es importante reconocer que tanto las redes cableadas como las inalámbricas tienen sus propias ventajas y desventajas. La elección entre una y otra dependerá de las necesidades y requisitos específicos de cada situación. En muchos casos, la combinación de ambas tecnologías puede ofrecer la mejor solución.
+
+RETROALIMENTACIÓN
+El documento presenta información clara sobre los temas. Los contextos que maneja son claros para personas del área.
